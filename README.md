@@ -1,2 +1,1 @@
-# mvc-lab-retake
-- zad3
+# mvc-lab-retake-zad3
